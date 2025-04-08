@@ -1,0 +1,13 @@
+geopandas>=0.13.0
+osmnx>=1.6.0
+folium
+shapely>=2.0.0
+pandas>=2.0.0
+numpy>=1.24.0
+matplotlib>=3.7.0
+gpxpy
+fitparse
+scikit-learn
+tqdm>=4.65.0
+python-dateutil>=2.8.2
+pytz>=2023.3
